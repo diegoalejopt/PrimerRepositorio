@@ -15,7 +15,7 @@
 /* Menu */
 .menu {	
 	height: 40px;
-	width: 625px;
+	width: 570px;
 
 	background: #4c4e5a;
 	background: -webkit-linear-gradient(top, #4c4e5a 0%,#2c2d33 100%);
@@ -111,7 +111,7 @@
 }
 
 .menu ul li a {
-	width: 180px;
+	width: 170px;
 	padding: 4px 0 4px 40px;
 	margin: 0;
 
