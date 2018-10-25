@@ -66,12 +66,11 @@ div#Menu{
     background-color: #e7b200;
 }
 
-div#videos{
+div#videos{	
 
 	margin-top: 10px;
 	width: 50%;
-	height: 50%; 
-	
+	height: 50%; 	
 }
 
 video#video{
@@ -88,15 +87,16 @@ iframe#video{
 	height: 50%; 
 
 }
-
+.imagen
+	{
+		max-width: 100%;
+	}
 div#presentacion{
 
 	float: right;
 	margin-top: 10px;
 	width: 49%;
 	height: 60.5%;
-	
-
 }
 
 div#imagen{
